@@ -107,4 +107,4 @@ if st.button("Analyze", type="primary", use_container_width=True):
         st.warning("Please enter some text first.")
 
 st.divider()
-st.caption("Project by Tanay Seth | Roll No: 25SCS1003004674 | Data Science 2025")
+st.caption("Project by : Tanay Seth | Roll No: 25SCS1003004674 | Data Science 2025")
