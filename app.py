@@ -4,7 +4,7 @@ import re
 
 # ── Page config ──────────────────────────────────────────
 st.set_page_config(
-    page_title="BharatFakeCheck",
+    page_title="Bharat NEWS Check",
     page_icon="🇮🇳",
     layout="centered"
 )
@@ -38,7 +38,7 @@ def predict(text):
     return verdict, confidence
 
 # ── UI ───────────────────────────────────────────────────
-st.title("🇮🇳 BharatFakeCheck")
+st.title("🇮🇳 Bharat NEWS Check")
 st.caption("Multilingual Fake News Detector — Hindi · English · Hinglish")
 st.divider()
 
